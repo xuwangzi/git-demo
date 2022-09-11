@@ -1,8 +1,8 @@
 public class GitTest {
     public static void main(String[] args) {
-        System.out.println("abalabal");
+        System.out.println("lala");
+        System.out.println("koko");
         System.out.println("balabala");
-        System.out.println("balabala");
-        System.out.println("balabala");
+        System.out.println("sese");
     }
 }
